@@ -14,6 +14,7 @@
       "flag D4",
       "clear E4",
       "clear A1",
-      "clear E1"
+      "clear E1",
+      "flag E2"
   ]
 }
